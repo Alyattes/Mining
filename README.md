@@ -1,0 +1,2 @@
+# Mining
+Individual Mining
